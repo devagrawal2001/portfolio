@@ -1,0 +1,130 @@
+body{
+background-color:rgb(17, 160, 112);
+
+
+}
+
+
+h1{
+    text-align: center;
+font-size: 80px;
+font-family:fantasy;
+
+
+
+}
+
+h2 
+{
+font-size: 60px;
+font-family:fantasy ;
+text-align: left;
+margin-left: 100px;
+
+}
+
+#web
+{font-size: 25px;
+    font-family:cursive;
+height:80px;
+width:480px;
+border:black 5px solid;
+background-color: crimson;
+margin-left: 40px;
+
+}
+
+
+#coder
+{font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+height:80px;
+width:480px;
+border:black 5px solid;
+
+margin-left: 400px;
+background-color:gold;
+}
+#btech
+{font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+height:80px;
+width:600px;
+border:black 5px solid;
+
+margin-left: 700px;
+background-color:crimson;
+}
+
+ol
+{
+font-size:35px;
+height:150px;
+width:600px;
+background-color: gold;
+border:5px black solid;
+margin-left:100px;
+}
+
+ol{
+font-size: 30px;
+font-style: italic;
+
+}
+
+
+h3 
+{
+font-size: 60px;
+font-family:fantasy ;
+text-align: left;
+
+
+}
+
+#personal 
+{
+    font-size: 20px;
+height:200px;
+width:700px;
+border:black 5px solid;
+background-color:gold;
+margin-left: 100px;
+}
+
+h4 
+{
+font-size: 60px;
+font-family:fantasy ;
+text-align: left;
+padding-left: 1000px;
+}
+
+table{
+
+    border:6px black solid;
+    font-size: 25px;
+background-color:crimson ;
+margin-left: 800px;
+}
+
+th{
+
+    border:4px black solid;
+    
+}
+
+td{
+
+    border:4px black solid;
+    
+}
+
+footer
+{height:100px;
+    width:7000px;
+    background-color:floralwhite;
+font-size:30px;
+word-spacing: 50px;
+    
+}
